@@ -1,4 +1,6 @@
-## Hi there 👋
-- I’m currently starting my Master's degree in Bioinformatics.
-- I’m currently expanding my skills in Python and R.
-- How to reach me: dallisargyriss@gmail.com
+## Hi, I'm Argyris 👋
+
+MSc Bioinformatics student · University of Crete
+🔬 Interested in computational modeling and prediction in biology
+🛠️ Learning Python, R, and Linux
+📫 dallisargyriss@gmail.com
